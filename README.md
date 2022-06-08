@@ -4,7 +4,7 @@
 
 ### Olá, bem vindos! 👋
 - :heart_eyes_cat: mãe de gatos
-- 🔭 trablahnado como back-end
+- 🔭 trabalhando como back-end
 - :heart:	apaixonada por Python
 - 🌱 curiando e buscando novos conhecimentos!
 - :brain:	buscando por novos desafios
