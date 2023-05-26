@@ -2,7 +2,7 @@
 
 <img  align=right src="https://github-readme-stats.vercel.app/api?username=vanessanunes&count_private=true&show_icons=true&include_all_commits=true&theme=monokai">
 
-### Olá, bem vindos! 👋
+### Olá, bem vindes! 👋
 - :heart_eyes_cat: mãe de gatos
 - 🔭 trabalhando como back-end
 - :heart:	apaixonada por Python
